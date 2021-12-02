@@ -18,3 +18,8 @@ You can use the toolbox to zoom in curves, if you want to zoom out, click "zoom 
 
 Sometimes the web page may have no response, please check your network and reopen the web.
 
+# Cite
+Please cite our paper if you find this code useful:
+    
+    DOI: 10.1002/(ISSN)2198-3844
+    
